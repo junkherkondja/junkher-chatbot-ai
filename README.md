@@ -1,0 +1,1 @@
+Junkher Chatbot AI is an intelligent accounting assistant that combines AI-powered tutoring with financial ratio calculations. It helps students, entrepreneurs, and professionals understand accounting concepts while providing instant financial insights through a simple web interface
